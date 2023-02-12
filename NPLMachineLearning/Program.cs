@@ -46,6 +46,7 @@ namespace NPLMachineLearning
             var predictionEngine = mlContext.Model.CreatePredictionEngine<TrainingData, ResultData>(model);
 
             Console.WriteLine("Başarılı.");
+            Console.WriteLine();
 
             string temp = "a";
 
@@ -56,7 +57,13 @@ namespace NPLMachineLearning
 
                 var prediction = predictionEngine.Predict(new TrainingData { Label = temp });
 
-                Console.WriteLine($"{prediction.Result}");
+                string result = prediction.Result;
+                foreach (char c in result)
+                {
+                    Console.Write(c);
+                    System.Threading.Thread.Sleep(20);
+                }
+                Console.WriteLine();
             }
         }
 
