@@ -102,3 +102,11 @@ D:\repos\NPL-Machine-Learning\NPLMachineLearning\obj\Debug\net7.0\refint\NPLMach
 D:\repos\NPL-Machine-Learning\NPLMachineLearning\obj\Debug\net7.0\NPLMachineLearning.pdb
 D:\repos\NPL-Machine-Learning\NPLMachineLearning\obj\Debug\net7.0\NPLMachineLearning.genruntimeconfig.cache
 D:\repos\NPL-Machine-Learning\NPLMachineLearning\obj\Debug\net7.0\ref\NPLMachineLearning.dll
+D:\repos\NPL-Machine-Learning\NPLMachineLearning\bin\Debug\net7.0\ExcelDataReader.dll
+D:\repos\NPL-Machine-Learning\NPLMachineLearning\bin\Debug\net7.0\BitMiracle.LibTiff.NET.dll
+D:\repos\NPL-Machine-Learning\NPLMachineLearning\bin\Debug\net7.0\IronSoftware.Drawing.Common.dll
+D:\repos\NPL-Machine-Learning\NPLMachineLearning\bin\Debug\net7.0\SixLabors.Fonts.dll
+D:\repos\NPL-Machine-Learning\NPLMachineLearning\bin\Debug\net7.0\SixLabors.ImageSharp.Drawing.dll
+D:\repos\NPL-Machine-Learning\NPLMachineLearning\bin\Debug\net7.0\IronXL.dll
+D:\repos\NPL-Machine-Learning\NPLMachineLearning\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\repos\NPL-Machine-Learning\NPLMachineLearning\bin\Debug\net7.0\SixLabors.ImageSharp.dll

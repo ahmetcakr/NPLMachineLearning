@@ -1,0 +1,7 @@
+Input,Output,Label
+Merhaba,Merhaba! Nasil yardimci olabilirim?,Neutral
+Ne tur bir yemek sunuyorsunuz?,Restoranimizda Akdeniz mutfagindan yemekler sunuyoruz.,Neutral
+Siparis vermek istiyorum.,Siparisinizi almaktan mutluluk duyarýz. Lutfen menumuzden secim yapin.,Neutral
+Tesekkur ederim.,Rica ederiz. Tekrar bekleriz.,Positive
+Afiyet olsun.,Tesekkur ederiz. Tekrar bekleriz.,Positive
+Memnun kalmadim.,Onerimiz þudur: ...,Negative

@@ -51,6 +51,14 @@
               "target": "Package",
               "version": "[6.1.2, )"
             },
+            "ExcelDataReader": {
+              "target": "Package",
+              "version": "[3.6.0, )"
+            },
+            "IronXL.Excel": {
+              "target": "Package",
+              "version": "[2023.1.14, )"
+            },
             "Microsoft.ML": {
               "target": "Package",
               "version": "[2.0.1, )"
@@ -76,7 +84,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }
