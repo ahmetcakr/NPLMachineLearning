@@ -2,3 +2,19 @@
 .vs/
 
 NPLMachineLearning/bin/
+
+SampleML/obj/
+
+NPLTraining/obj/
+
+NPLMachineLearning/obj/
+
+MLModel1_ConsoleApp1/obj/
+
+LanguageIntension/obj/
+
+GithubIssueClassification/obj/
+
+AutoNPL/obj/
+
+AutoCreatedNPL/obj/
